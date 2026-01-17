@@ -1,8 +1,8 @@
-===========================================================================
+
            DOKUMENTASI RESMI SISTEM MANAJEMEN SERVIS GADGET
                     ASDPro - TJ PHONE REPAIR GALLERY 
                           VERSION 2.5.4 (2026)
-===========================================================================
+
 
 Terima kasih telah memilih ASDPro sebagai solusi manajemen operasional
 bisnis reparasi gadget Anda. Dokumen ini berisi panduan instalasi, 
